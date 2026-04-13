@@ -272,3 +272,5 @@ When doing this again on another project:
 ## One Sentence Summary
 
 Exercise 19 is about taking test commands that already work locally and teaching GitHub to run them automatically on every push.
+
+ChatGippitty is not responsible for my education....
